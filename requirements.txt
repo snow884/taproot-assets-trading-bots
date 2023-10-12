@@ -1,0 +1,2 @@
+tiramisu_wallet_client==0.0.5
+yfinance==0.2.28
